@@ -4,13 +4,13 @@ Lab instructions: <https://ucsb-cs156.github.io/m23/lab/team01/>
 
 
 ```
-|   Name                | GitHub Id |  Service                    | Controller                |
-|-----------            |-----------|-----------------------------|---------------------------| 
-|Hao Wu                 |           | `LocationQueryService`      | `LocationController`      |   
-|Ziyang Huang           |           | `PublicHolidayQueryService` | `PublicHolidayController` |   
-|                       |           | `TidesQueryService`         | `TidesController`         |   
-|Zixiao Jin             |           | `UniversityQueryService`    | `UniversityController`    |
-|Ethan Sun              |           | `ZipCodeQueryService`       | `ZipCodeController`       |
+|   Name                | GitHub Id      |  Service                    | Controller                |
+|-----------            |----------------|-----------------------------|---------------------------| 
+|Hao Wu                 |Haostevewu      | `LocationQueryService`      | `LocationController`      |   
+|Ziyang Huang           |marcushuang1    | `PublicHolidayQueryService` | `PublicHolidayController` |   
+|                       |                | `TidesQueryService`         | `TidesController`         |   
+|Zixiao Jin             |ZixiaoJin       | `UniversityQueryService`    | `UniversityController`    |
+|Ethan Sun              |EthanSun210     | `ZipCodeQueryService`       | `ZipCodeController`       |
 ```
 
 Repo: https://github.com/ucsb-cs156-m23/team01-m23-10am-1
