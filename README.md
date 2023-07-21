@@ -15,7 +15,7 @@ Lab instructions: <https://ucsb-cs156.github.io/m23/lab/team01/>
 
 Repo: https://github.com/ucsb-cs156-m23/team01-m23-10am-1
 
-On Dokku: https://team01.dokku-04.cs.ucsb.edu
+On Dokku: http://team01.dokku-04.cs.ucsb.edu
 
 ## About this repo
 
