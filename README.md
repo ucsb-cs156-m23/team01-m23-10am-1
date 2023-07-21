@@ -5,7 +5,7 @@ Lab instructions: <https://ucsb-cs156.github.io/m23/lab/team01/>
 
 ```
 |   Name                | GitHub Id      |  Service                    | Controller                |
-|-----------            |----------------|-----------------------------|---------------------------| 
+|-----------------------|----------------|-----------------------------|---------------------------| 
 |Hao Wu                 |Haostevewu      | `LocationQueryService`      | `LocationController`      |   
 |Ziyang Huang           |marcushuang1    | `PublicHolidayQueryService` | `PublicHolidayController` |   
 |                       |                | `TidesQueryService`         | `TidesController`         |   
